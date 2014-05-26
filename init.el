@@ -3,3 +3,5 @@
 
 (live-add-pack-lib "dirtree")
 (require 'dirtree)
+
+(live-load-config-file "dirtree-conf.el")
